@@ -1,5 +1,5 @@
 
-<div align="center"> 
+
   
 ![Copia de Diseño sin título](https://user-images.githubusercontent.com/55983491/207288783-6c9a91fd-9e23-4245-98cf-6f9cf104fcc5.png)
 
